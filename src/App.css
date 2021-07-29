@@ -1,0 +1,48 @@
+
+.btn-add{
+  height: 30px;
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  font-weight: 500;
+  background: #1C52BE;
+  border: 1px solid #1C52BE;
+  border-radius: 5px;
+  padding: 2px 15px;
+  color: #fff;
+}
+
+.search-todo{
+  height: 30px;
+  display: flex;
+  vertical-align: c;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border: 1px solid #e8e7e7;
+}
+
+.card-header{
+  background-color: #fff !important;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.form-check-input[type=checkbox] {
+  border-radius: .5em;
+  cursor: pointer;
+}
+
+.dropdown{
+
+  margin-left: 200px;
+}
+.dropdown-btn{
+  border: 1px solid lightgray;
+  font-size: 12px;
+}
+
+.bullet{
+  height: 7px;
+  width: 7px;
+}
